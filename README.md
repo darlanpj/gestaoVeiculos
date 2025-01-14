@@ -64,9 +64,9 @@ curl --location --request GET 'http://localhost:8090/api/veiculos/automoveis' \
 ```
 
 Tests realizados:
+![Screenshot from 2025-01-13 23-54-29](https://github.com/user-attachments/assets/1d09d637-638f-4233-b22c-59282b3a12ca)
+![Screenshot from 2025-01-13 23-54-42](https://github.com/user-attachments/assets/4645901b-b2b7-495e-be6e-f0a648336d40)
+![Screenshot from 2025-01-13 23-56-53](https://github.com/user-attachments/assets/289e5709-79f9-4b5a-84ea-a1b2046c164e)
+![Screenshot from 2025-01-13 23-57-48](https://github.com/user-attachments/assets/ca7d9033-a2b7-45ff-bd7a-6ecab128e80e)
+![Screenshot from 2025-01-13 23-58-23](https://github.com/user-attachments/assets/9d925abc-31b9-4c61-84d6-999aabca35f0)
 
-![Screenshot from 2025-01-13 23-58-23.png](../../../../Pictures/Screenshots/Screenshot%20from%202025-01-13%2023-58-23.png)
-![Screenshot from 2025-01-13 23-57-48.png](../../../../Pictures/Screenshots/Screenshot%20from%202025-01-13%2023-57-48.png)
-![Screenshot from 2025-01-13 23-56-53.png](../../../../Pictures/Screenshots/Screenshot%20from%202025-01-13%2023-56-53.png)
-![Screenshot from 2025-01-13 23-54-42.png](../../../../Pictures/Screenshots/Screenshot%20from%202025-01-13%2023-54-42.png)
-![Screenshot from 2025-01-13 23-54-29.png](../../../../Pictures/Screenshots/Screenshot%20from%202025-01-13%2023-54-29.png)
